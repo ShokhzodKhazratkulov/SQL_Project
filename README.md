@@ -27,13 +27,13 @@ I used some powerful tools:
 The results of the analysis will provide insights into the following:
 
 - Top-paying job titles and their associated skills.
-![alt text](/assets/image-1.png)
+![alt text](assets/image-1.png)
 - Most demanded skills in the job market.
-![alt text](/assets/image-4.png)
+![alt text](assets/image-4.png)
 - Skills that are associated with the highest salaries.
-![alt text](/assets/image-7.png)
+![alt text](assets/image-7.png)
 - Optimal skills required for specific job titles.
-![alt text](/assets/image-5.png)
+![alt text](assets/image-5.png)
 *Here's the chart visualizing the demand count and average salary for various skills:*
 
 - The blue bars represent the demand count for each skill.
